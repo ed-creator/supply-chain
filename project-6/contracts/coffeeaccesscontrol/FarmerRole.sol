@@ -51,4 +51,5 @@ contract FarmerRole {
     farmers.remove(account);
     emit FarmerRemoved(account);
   }
+  
 }
